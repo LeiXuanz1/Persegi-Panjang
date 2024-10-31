@@ -29,10 +29,13 @@ Kode program terdiri dari beberapa metode yang masing-masing memiliki tugas spes
    git clone https://github.com/username/PersegiPanjangA.git
    cd PersegiPanjangA
 2. Kompilasi dan Jalankan Program dari Terminal
-   # Kompilasi Kode
+   - Kompilasi Kode
    javac -d bin src/org/example/PersegiPanjangA.java
-   # Jalankan Program
+   - Jalankan Program
    java -cp bin org.example.PersegiPanjangA
 3. Jalankan Program dari IDE
    - Buka proyek di IDE seperti IntelliJ IDEA atau Eclipse.
    - Cari kelas PersegiPanjangA, klik kanan, dan pilih Run atau Execute.
+
+## License
+# This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
