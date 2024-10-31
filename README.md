@@ -30,9 +30,9 @@ Kode program terdiri dari beberapa metode yang masing-masing memiliki tugas spes
    cd PersegiPanjangA
 2. Kompilasi dan Jalankan Program dari Terminal
 - Kompilasi Kode
-   javac -d bin src/org/example/PersegiPanjangA.java
+   - javac -d bin src/org/example/PersegiPanjangA.java
 - Jalankan Program
-   java -cp bin org.example.PersegiPanjangA
+   - java -cp bin org.example.PersegiPanjangA
 3. Jalankan Program dari IDE
    - Buka proyek di IDE seperti IntelliJ IDEA atau Eclipse.
    - Cari kelas PersegiPanjangA, klik kanan, dan pilih Run atau Execute.
